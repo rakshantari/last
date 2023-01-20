@@ -1,0 +1,33 @@
+
+.calc{
+    width: 320px;
+    margin: 100px auto;
+    border: 2px solid  black;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.answer{
+    padding: 20px;
+    width: 277px;
+    border: 2px solid black;
+    text-align: right;
+    font-size: 28px;
+    border-radius: 5px;
+}
+
+.button{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.button1{
+    width: 160px;
+}
+
+.blue{
+    background-color: #26d6f1;
+}
